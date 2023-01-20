@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import AnimatedPage from "../components/AnimatedPage";
 //
 
 const NavForMD = () => {
