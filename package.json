@@ -9,11 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/react-icons": "^3.0.0",
     "@types/react-router-dom": "^5.3.3",
     "daisyui": "^2.47.0",
     "framer-motion": "^8.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
     "react-router-dom": "^6.7.0"
   },
   "devDependencies": {
